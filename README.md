@@ -11,7 +11,7 @@ existing rules and reorganizes them for machine retrieval. The official
 Rules of Play is always the authority — where this tool and the current
 official rulebook ever disagree, the official rulebook governs.
 
-*Unofficial; built by a Celestial Kingdom member, not affiliated with or
+*Unofficial; Not affiliated with or
 endorsed by Amtgard International. All rulebook content © Amtgard
 International — see [Copyright & Trademark](#copyright--trademark).*
 

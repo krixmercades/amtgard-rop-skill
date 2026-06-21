@@ -101,22 +101,6 @@ rather than doing the arithmetic by hand.
 
 ---
 
-## Building from source / maintaining
-
-This repo also contains the build pipeline (`maintaining/`) that generates
-the skill from the rulebook, plus the validator and its data table. When a
-new Rules of Play version or clarifications update drops, the regeneration
-process, validation gates, and the source-of-truth rules are documented in
-[`maintaining/MAINTAINING.md`](maintaining/MAINTAINING.md).
-
-To verify the magic-user validator after any change:
-
-```bash
-python3 scripts/validate_magic_build.py --selftest
-```
-
----
-
 ## Copyright & Trademark
 
 **All rulebook content belongs to Amtgard International. This project

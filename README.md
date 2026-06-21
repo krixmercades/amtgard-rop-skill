@@ -46,7 +46,7 @@ small and the rest is pulled on demand.
 
 ## Install — Claude (claude.ai)
 
-1. **Download** `amtgard-rop-skill.skill` from this repo.
+1. **Download** `amtgard-rop-assistant.skill` from this repo.
 2. In **claude.ai**, open your profile menu → **Settings → Customize →
    Skills** (on some plans this is **Settings → Capabilities → Skills**).
 3. Make sure **Code execution and file creation** is turned on — skills
